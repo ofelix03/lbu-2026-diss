@@ -1,0 +1,16 @@
+pandas
+numpy
+geopandas
+shapely
+libpysal
+esda
+matplotlib
+seaborn
+folium
+scipy
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+shap
+pyproj
